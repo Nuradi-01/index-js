@@ -377,6 +377,7 @@
 // let newArr = arr.find((item) => { return item>10 });
 // console.log(newArr);
 
+
 // let arr = ["lorem", 'java', 'ipsum', 'react'];
 // let newArr = arr.find((name) => { return name === "java";});
 // console.log(newArr);
